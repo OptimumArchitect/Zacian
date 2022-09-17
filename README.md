@@ -9,7 +9,7 @@
 ## Features
 
 - Timers
-<img src="https://cdn.discordapp.com/attachments/997586405238767746/1020800423000559738/New_Project_19_1.png" width = "200"/>
+<img src="https://cdn.discordapp.com/attachments/997586405238767746/1020800423000559738/New_Project_19_1.png" width = "500"/>
 
 - Fullscreen mode
 - Cross platform

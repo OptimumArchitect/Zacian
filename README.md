@@ -49,3 +49,17 @@ An automated system which detects the rare catches.
 
 <img src="https://cdn.discordapp.com/attachments/997586405238767746/1020799958116475001/New_Project_23.png" width = "500"/>
 
+
+## Roadmap
+
+- Gym & Badges Management System
+- Shinyhunt & Collection System
+& more coming your way.
+
+
+## Privacy Policy
+
+|Zacian's Privacy Policy is display is in below's link.|  
+|--
+
+https://eurin-teurin.gitbook.io/zacian-privacy-policy/

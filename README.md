@@ -1,3 +1,3 @@
 # Zacian
-
-[![GPLv3 License](https://img.shields.io/eclipse-marketplace/l/Zacian?label=LICENSE&logoColor=%23ff9d00&style=for-the-badge)](https://opensource.org/licenses/GPL-3.0)
+[![Discord](https://img.shields.io/badge/DISCORD-JOIN-success?style=for-the-badge)](https://discord.gg/T2WfEdazyG)
+[![GPLv3 License](https://img.shields.io/badge/LICENSE-GPL--3.0-important?style=for-the-badge)](https://github.com/OptimumArchitect/Zacian/blob/main/LICENSE)

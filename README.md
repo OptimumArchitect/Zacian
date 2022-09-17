@@ -5,3 +5,12 @@
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN-success?style=for-the-badge&logo=Discord)](https://discord.gg/T2WfEdazyG)
 [![GPLv3 License](https://img.shields.io/badge/LICENSE-GPL--3.0-important?style=for-the-badge&logo=readthedocs)](https://github.com/OptimumArchitect/Zacian/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/PYTHON-3.8-informational?style=for-the-badge&logo=python)](https://github.com/OptimumArchitect/Zacian/blob/main/LICENSE)
+
+## Features
+
+- Timers
+![Timer](<img src="https://cdn.discordapp.com/attachments/997586405238767746/1020800423000559738/New_Project_19_1.png" width="200" height="400"/>)
+- Live previews
+- Fullscreen mode
+- Cross platform
+
